@@ -30,7 +30,7 @@
 
 ---
 
-## languages
+## Languages
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,javascript,react,cpp&theme=dark&perline=4" />
@@ -38,7 +38,7 @@
 
 <br/>
 
-## stack
+## Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=firebase,mysql,git,androidstudio,replit,vscode&theme=dark&perline=6" />
@@ -46,7 +46,7 @@
 
 <br/>
 
-## ai tooling + ides
+## AI tools + IDEs
 
 <div align="center">
 
@@ -60,7 +60,7 @@
 
 ---
 
-## github analytics
+## Github Analytics
 
 <div align="center">
 
@@ -86,7 +86,7 @@
 <div align="center">
 
 ```
-  "building things that didn't exist yesterday."
+  "Building things that didn't exist yesterday."
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:111111,100:0a0a0a&height=100&section=footer&animation=fadeIn" />
