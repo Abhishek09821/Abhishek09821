@@ -1,158 +1,84 @@
 <div align="center">
 
-<!-- Animated Name Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhishek%20Tiwari&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Problem%20Solver&descAlignY=55&descSize=16&descColor=aaaaaa&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111111,100:1a1a2e&height=220&section=header&text=Abhishek%20Tiwari&fontSize=56&fontColor=e2e2e2&fontAlignY=38&desc=vibe%20coder.%20ai%20builder.%20full%20stack.&descAlignY=58&descSize=15&descColor=555555&animation=fadeIn&fontAlign=50" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=00FFA3&center=true&vCenter=true&multiline=false&width=600&lines=Building+Real+World+Products;Integrating+AI+Into+Everything;Full+Stack+%7C+Backend+%7C+AI+Apps;Always+Shipping+%2C+Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=AAAAAA&center=true&vCenter=true&width=580&lines=shipping+ideas+into+existence;python+%C2%B7+react+%C2%B7+ai+%C2%B7+full+stack;if+it+doesn't+exist+%E2%80%94+build+it" />
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Abhishek09821?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=161B22)](https://github.com/Abhishek09821)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=Abhishek09821&style=for-the-badge&color=00FFA3&labelColor=0D1117)
+[![GitHub followers](https://img.shields.io/github/followers/Abhishek09821?style=flat-square&logo=github&logoColor=aaaaaa&color=111111&labelColor=0d0d0d&label=followers)](https://github.com/Abhishek09821)
+&nbsp;&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=Abhishek09821&style=flat-square&color=111111&labelColor=0d0d0d&label=profile+views)
 
 </div>
 
----
+<br/>
 
-## `> whoami`
+---
 
 ```txt
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   Name    →  Abhishek Tiwari                            │
-│   Role    →  Full Stack Developer & AI Builder          │
-│   Focus   →  Real World Products that actually ship     │
-│   Mode    →  Building · Debugging · Iterating           │
-│                                                         │
-│   Currently crafting →  AI-powered web apps             │
-│                         Automation tools                │
-│                         Full stack systems              │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+  INTRO
+  ──────────────────────────────────────────────────────
+  name     →  Abhishek Tiwari
+  mode     →  vibe coder
+  focus    →  turning rough ideas into real products
+  method   →  ship fast · break things · rebuild better
+  ──────────────────────────────────────────────────────
 ```
 
 ---
 
-## `> tech_stack --list`
+## languages
 
 <div align="center">
-
-**Languages & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=python,javascript,react,cpp&theme=dark" />
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=vscode,firebase,git,mysql,androidstudio&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=python,javascript,react,cpp&theme=dark&perline=4" />
 </div>
 
 <br/>
 
+## stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=firebase,mysql,git,androidstudio,replit,vscode&theme=dark&perline=6" />
+</div>
+
+<br/>
+
+## ai tooling + ides
+
 <div align="center">
 
-<!-- Special Tools as clean dark badges -->
-<img src="https://img.shields.io/badge/Kiro-00FFA3?style=for-the-badge&logoColor=black&labelColor=0D1117&color=00FFA3" />
+<img src="https://img.shields.io/badge/Kiro-IDE-1a1a2e?style=flat-square&logo=amazonwebservices&logoColor=FF9900&labelColor=0d0d0d" />
 &nbsp;
-<img src="https://img.shields.io/badge/Codex-58A6FF?style=for-the-badge&logoColor=white&labelColor=0D1117&color=58A6FF" />
+<img src="https://img.shields.io/badge/Codex-OpenAI-1a1a2e?style=flat-square&logo=openai&logoColor=ffffff&labelColor=0d0d0d" />
 &nbsp;
-<img src="https://img.shields.io/badge/Antigravity-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0D1117&color=FF6B6B" />
+<img src="https://img.shields.io/badge/Antigravity-IDE-1a1a2e?style=flat-square&logo=rocket&logoColor=aaaaaa&labelColor=0d0d0d" />
 
 </div>
 
 ---
 
-## `> projects --featured`
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ Canary File
-**Deception-based honeypot monitoring system**
-
-```
-Stack → Python · Flask · SQLite
-        OpenCV · Watchdog · Fernet
-Alerts → Telegram · Twilio · Email
-```
-> Smart file trap that catches intruders, takes webcam snapshots, and logs everything silently.
-
-</td>
-<td width="50%" valign="top">
-
-### 💰 FinMate AI
-**Personal finance assistant for Indian users**
-
-```
-Stack → FastAPI · React · SQLite
-        Gemini AI · Recharts
-UX   → Chat-first · Visual insights
-```
-> AI-powered finance tracker built specifically for Indian spending patterns and UPI workflows.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍎 APPLE
-**Mac desktop AI automation assistant**
-
-```
-Stack → FastAPI · React · AppleScript
-        Playwright · Gemini · SQLite
-Agent → Intent → Tool → Memory
-```
-> 3-layer AI agent with 20+ macOS automation functions. Understands Hinglish commands natively.
-
-</td>
-<td width="50%" valign="top">
-
-### 🏏 IPL Auction Game
-**Real-time auction simulation platform**
-
-```
-Stack → React · Firebase
-        Real-time DB · Live Sync
-Mode → Multi-player · Live bidding
-```
-> Live IPL-style auction platform with real-time bidding, team budgets, and player cards.
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## `> github --stats`
+## github analytics
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Abhishek09821&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFA3&icon_color=58A6FF&text_color=ffffff&border_radius=10"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Abhishek09821&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=eeeeee&icon_color=555555&text_color=888888&border_radius=6&rank_icon=github&include_all_commits=true" />
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek09821&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FFA3&text_color=ffffff&border_radius=10"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek09821&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=eeeeee&text_color=888888&border_radius=6&langs_count=6" />
 
 </div>
 
 <div align="center">
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek09821&bg_color=0D1117&color=00FFA3&line=58A6FF&point=ffffff&area=true&area_color=00FFA320&hide_border=true&radius=8" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek09821&bg_color=0d0d0d&color=555555&line=aaaaaa&point=eeeeee&area=true&area_color=22222280&hide_border=true&radius=4&custom_title=contribution+activity" width="92%" />
 </div>
 
----
-
-## `> streak --current`
+<br/>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Abhishek09821&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FFA3&fire=FF6B6B&currStreakLabel=00FFA3&sideLabels=58A6FF&border_radius=10" />
-
+<img src="https://streak-stats.demolab.com?user=Abhishek09821&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=aaaaaa&fire=eeeeee&currStreakLabel=888888&sideLabels=555555&dates=444444&border_radius=6&stroke=1a1a1a" />
 </div>
 
 ---
@@ -160,13 +86,9 @@ Mode → Multi-player · Live bidding
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║      " Building things that didn't exist yesterday. "   ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+  "building things that didn't exist yesterday."
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:111111,100:0a0a0a&height=100&section=footer&animation=fadeIn" />
 
 </div>
