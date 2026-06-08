@@ -19,7 +19,7 @@
 ---
 
 ```txt
-  INTRO
+  whoami
   ──────────────────────────────────────────────────────
   name     →  Abhishek Tiwari
   mode     →  vibe coder
@@ -30,7 +30,7 @@
 
 ---
 
-## Languages
+## languages
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,javascript,react,cpp&theme=dark&perline=4" />
@@ -38,7 +38,7 @@
 
 <br/>
 
-## Stack
+## stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=firebase,mysql,git,androidstudio,replit,vscode&theme=dark&perline=6" />
@@ -46,7 +46,7 @@
 
 <br/>
 
-## AI tools + IDEs
+## ai tooling + ides
 
 <div align="center">
 
@@ -60,7 +60,7 @@
 
 ---
 
-## Github Analytics
+## github analytics
 
 <div align="center">
 
@@ -81,10 +81,30 @@
 <img src="https://streak-stats.demolab.com?user=Abhishek09821&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=aaaaaa&fire=eeeeee&currStreakLabel=888888&sideLabels=555555&dates=444444&border_radius=6&stroke=1a1a1a" />
 </div>
 
+## contribution snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhishek09821/Abhishek09821/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhishek09821/Abhishek09821/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Abhishek09821/Abhishek09821/output/github-snake-dark.svg" width="92%" />
+</picture>
+</div>
+
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=6000&color=444444&center=true&vCenter=true&width=620&lines=%22building+things+that+didn%27t+exist+yesterday.%22" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:111111,100:0a0a0a&height=100&section=footer&animation=fadeIn" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.&author=Cory+House&bg_color=0d0d0d&border_color=222222&title_color=888888&quote_color=555555" width="80%" />
+
 </div>
- 
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=6000&color=444444&center=true&vCenter=true&width=620&lines=%22building+things+that+didn%27t+exist+yesterday.%22" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:111111,100:0a0a0a&height=100&section=footer&animation=fadeIn" />
+
+</div>
