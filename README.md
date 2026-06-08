@@ -84,11 +84,7 @@
 ---
 
 <div align="center">
-
-```
-  "Building things that didn't exist yesterday."
-```
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=6000&color=444444&center=true&vCenter=true&width=620&lines=%22building+things+that+didn%27t+exist+yesterday.%22" />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:111111,100:0a0a0a&height=100&section=footer&animation=fadeIn" />
-
 </div>
+ 
