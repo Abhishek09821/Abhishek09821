@@ -88,14 +88,6 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%27s+bad.&author=Cory+House&bg_color=0d0d0d&border_color=222222&title_color=888888&quote_color=555555" width="80%" />
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=4000&pause=6000&color=444444&center=true&vCenter=true&width=620&lines=%22building+things+that+didn%27t+exist+yesterday.%22" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:111111,100:0a0a0a&height=100&section=footer&animation=fadeIn" />
