@@ -19,18 +19,18 @@
 ---
 
 ```txt
-  whoami
+  INFO
   ──────────────────────────────────────────────────────
-  name     →  Abhishek Tiwari
-  mode     →  vibe coder
-  focus    →  turning rough ideas into real products
-  method   →  ship fast · break things · rebuild better
+  Name     →  Abhishek Tiwari
+  Mode     →  vibe coder
+  Focus    →  turning rough ideas into real products
+  Method   →  ship fast · break things · rebuild better
   ──────────────────────────────────────────────────────
 ```
 
 ---
 
-## languages
+## Languages
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,javascript,react,cpp&theme=dark&perline=4" />
@@ -38,7 +38,7 @@
 
 <br/>
 
-## stack
+## Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=firebase,mysql,git,androidstudio,replit,vscode&theme=dark&perline=6" />
@@ -46,7 +46,7 @@
 
 <br/>
 
-## ai tooling + ides
+## AI tooling + IDEs
 
 <div align="center">
 
@@ -60,7 +60,7 @@
 
 ---
 
-## github analytics
+## Github Analytics
 
 
 <div align="center">
@@ -74,7 +74,7 @@
 <img src="https://streak-stats.demolab.com?user=Abhishek09821&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=aaaaaa&fire=eeeeee&currStreakLabel=888888&sideLabels=555555&dates=444444&border_radius=6&stroke=1a1a1a" />
 </div>
 
-## contribution snake
+## Contribution Snake
 
 <div align="center">
 <picture>
