@@ -67,7 +67,7 @@
 </div>
 <div align="center">
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek09821&bg_color=0d0d0d&color=555555&line=aaaaaa&point=eeeeee&area=true&area_color=22222280&hide_border=true&radius=4&custom_title=contribution+activity" width="92%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abhishek09821&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=eeeeee&icon_color=555555&text_color=888888&border_radius=6&include_all_commits=true&count_private=true&cache_seconds=86400" />
 </div>
 <br/>
 <div align="center">
