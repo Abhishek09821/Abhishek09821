@@ -64,14 +64,24 @@
 
 
 <div align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Abhishek09821&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=eeeeee&icon_color=555555&text_color=888888&border_radius=6&rank_icon=github&include_all_commits=true&cache_seconds=86400" />
+&nbsp;
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek09821&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=eeeeee&text_color=888888&border_radius=6&langs_count=6&cache_seconds=86400" />
+</div>
+<div align="center">
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek09821&bg_color=0d0d0d&color=555555&line=aaaaaa&point=eeeeee&area=true&area_color=22222280&hide_border=true&radius=4&custom_title=contribution+activity" width="92%" />
 </div>
-
 <br/>
-
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Abhishek09821&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=aaaaaa&fire=eeeeee&currStreakLabel=888888&sideLabels=555555&dates=444444&border_radius=6&stroke=1a1a1a" />
+</div>
+<br/>
+<div align="center">
+![contributions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FAbhishek09821%3Fy%3Dtotal&query=%24.total&style=flat-square&label=total+contributions&color=0d0d0d&labelColor=0d0d0d&logo=github&logoColor=aaaaaa)
+&nbsp;
+![commits this year](https://img.shields.io/github/commit-activity/y/Abhishek09821/Abhishek09821?style=flat-square&label=commits+this+year&color=0d0d0d&labelColor=0d0d0d&logo=git&logoColor=aaaaaa)
+ 
 </div>
 
 ## Contribution Snake
