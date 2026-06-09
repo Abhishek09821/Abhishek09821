@@ -63,10 +63,7 @@
 ## Github Analytics
 
 
-<div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Abhishek09821&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=eeeeee&icon_color=555555&text_color=888888&border_radius=6&rank_icon=github&include_all_commits=true&cache_seconds=86400" />
-&nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek09821&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=eeeeee&text_color=888888&border_radius=6&langs_count=6&cache_seconds=86400" />
+
 </div>
 <div align="center">
 <br/>
