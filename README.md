@@ -76,13 +76,6 @@
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Abhishek09821&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=aaaaaa&fire=eeeeee&currStreakLabel=888888&sideLabels=555555&dates=444444&border_radius=6&stroke=1a1a1a" />
 </div>
-<br/>
-<div align="center">
-![contributions](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2FAbhishek09821%3Fy%3Dtotal&query=%24.total&style=flat-square&label=total+contributions&color=0d0d0d&labelColor=0d0d0d&logo=github&logoColor=aaaaaa)
-&nbsp;
-![commits this year](https://img.shields.io/github/commit-activity/y/Abhishek09821/Abhishek09821?style=flat-square&label=commits+this+year&color=0d0d0d&labelColor=0d0d0d&logo=git&logoColor=aaaaaa)
- 
-</div>
 
 ## Contribution Snake
 
