@@ -22,7 +22,7 @@
   INFO
   ──────────────────────────────────────────────────────
   Name     →  Abhishek Tiwari
-  Mode     →  Software Developer 
+  Mode     →  Full stack Developer
   Focus    →  turning rough ideas into real products
   Method   →  ship fast · break things · rebuild better
   ──────────────────────────────────────────────────────
