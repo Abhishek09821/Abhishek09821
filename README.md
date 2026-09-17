@@ -68,43 +68,18 @@ I like turning rough ideas into products that actually work.
 
 <div align="center">
 
-### ☯  /  FIND ME
+### ☯ FIND ME
 
 <a href="https://www.linkedin.com/in/abhishek-tiwari-3a3594300/">
-<img src="https://img.shields.io/badge/%E5%8D%B7%20LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=15151a" />
+<kbd> LINKEDIN </kbd>
 </a>
+&nbsp;&nbsp;
 <a href="https://leetcode.com/u/abhishektiwari9821/">
-<img src="https://img.shields.io/badge/%E5%88%80%20LEETCODE-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=15151a" />
+<kbd> LEETCODE </kbd>
 </a>
 
-
 </div>
-
 <br />
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek09821&bg_color=0d0d10&color=9f9fa5&line=9d3948&point=e8e4dd&area=true&hide_border=true&radius=7&custom_title=MISSION%20LOG" width="96%" />
-
-</div>
-
-<br />
-
-<table align="center">
-<tr>
-<td align="center">
-
-
-
-</td>
-<td align="center">
-
-
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
 <sub>「 Same curiosity. Better code. Bigger dreams. 」</sub>
