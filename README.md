@@ -73,9 +73,6 @@ I like turning rough ideas into products that actually work.
 <a href="https://www.linkedin.com/in/abhishek-tiwari-3a3594300/">
 <img src="https://img.shields.io/badge/%E5%8D%B7%20LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=15151a" />
 </a>
-
-&nbsp;
-
 <a href="https://leetcode.com/u/abhishektiwari9821/">
 <img src="https://img.shields.io/badge/%E5%88%80%20LEETCODE-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=15151a" />
 </a>
