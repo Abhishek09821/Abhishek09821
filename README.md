@@ -68,26 +68,18 @@ I like turning rough ideas into products that actually work.
 
 <div align="center">
 
-### 巻  /  SELECTED WORK
+### ☯  /  FIND ME
 
-<a href="https://github.com/Abhishek09821">
-<b>FINMATE AI</b>
-</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/Abhishek09821">
-<b>VDown</b>
-</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/Abhishek09821">
-<b>URCV</b>
-</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/Abhishek09821">
-<b>ReverseX</b>
+<a href="https://www.linkedin.com/in/abhishek-tiwari-3a3594300/">
+<img src="https://img.shields.io/badge/%E5%8D%B7%20LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=15151a" />
 </a>
 
-<br />
-<sub>AI · web · backend · developer tools</sub>
+&nbsp;
+
+<a href="https://leetcode.com/u/abhishektiwari9821/">
+<img src="https://img.shields.io/badge/%E5%88%80%20LEETCODE-111111?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=15151a" />
+</a>
+
 
 </div>
 
