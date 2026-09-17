@@ -58,7 +58,7 @@ I like turning rough ideas into products that actually work.
 
 ### 鍛  /  TOOLS OF THE TRADE
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,react,nextjs,angular,nodejs,express,nestjs,fastapi,flask,tailwind,vite,postgresql,mysql,mongodb,supabase,firebase,docker,aws,gcp,git,github&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=c,c++,python,javascript,typescript,cpp,react,nextjs,angular,nodejs,express,fastapi,flask,tailwind,vite,postgresql,mysql,mongodb,supabase,firebase,docker,aws,git,github&theme=dark&perline=8" />
 
 </div>
 
