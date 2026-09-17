@@ -68,7 +68,7 @@ I like turning rough ideas into products that actually work.
 
 <div align="center">
 
-### ☯ FIND ME
+### 見つける FIND ME
 
 <a href="https://www.linkedin.com/in/abhishek-tiwari-3a3594300/">
 <kbd> LINKEDIN </kbd>
