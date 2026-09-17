@@ -4,7 +4,7 @@
 
 <br />
 
-<sub>忍 — build quietly. let the work speak.</sub>
+<sub>忍 — Build quietly. Let the work speak.</sub>
 
 <br /><br />
 
@@ -44,7 +44,7 @@ I like turning rough ideas into products that actually work.
 ### 道  /  CURRENTLY
 
 **Building** — AI + web products  
-**Working with** — Python, React, TypeScript  
+**Working with** — Python, React, TypeScript, JavaScript 
 **Exploring** — Cloud, automation, intelligent apps  
 **Home base** — India
 
@@ -94,12 +94,12 @@ I like turning rough ideas into products that actually work.
 <tr>
 <td align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishek09821&show_icons=true&hide_border=true&hide_title=true&count_private=true&bg_color=0d0d10&text_color=9b9ba0&icon_color=9d3948" height="145" />
+
 
 </td>
 <td align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek09821&layout=compact&hide_border=true&hide_title=true&bg_color=0d0d10&text_color=9b9ba0&langs_count=7" height="145" />
+
 
 </td>
 </tr>
@@ -107,6 +107,6 @@ I like turning rough ideas into products that actually work.
 
 <div align="center">
 
-<sub>「 same curiosity. better code. bigger dreams. 」</sub>
+<sub>「 Same curiosity. Better code. Bigger dreams. 」</sub>
 
 </div>
