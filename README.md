@@ -43,10 +43,10 @@ I like turning rough ideas into products that actually work.
 
 ### 道  /  CURRENTLY
 
-**Building** — AI + web products  
-**Working with** — Python, React, TypeScript, JavaScript 
-**Exploring** — Cloud, automation, intelligent apps  
-**Home base** — India
+**Building** - AI + web products  
+**Working with** - Python, React, TypeScript, JavaScript 
+**Exploring** - Cloud, automation, intelligent apps  
+**Home base** - India
 
 </td>
 </tr>
