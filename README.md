@@ -18,7 +18,7 @@
 
 ---
 
-### CASE FILES // 04
+### MY WORKS
 
 <table>
 <tr>
@@ -73,7 +73,7 @@ A web reverse-engineering tool for uncovering architecture, UI patterns and tech
 ---
 <div align="center">
 
-### FIELD KIT // 03
+### MY TOOLS
 
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,react,nextjs,angular,nodejs,express,fastapi,flask,tailwind,vite,postgresql,mysql,mongodb,supabase,firebase,docker,aws,vercel,netlify,git,github&theme=dark&perline=8" />
 
@@ -82,7 +82,6 @@ A web reverse-engineering tool for uncovering architecture, UI patterns and tech
 ---
 
 <div align="center">
-
 <sub>
 SYSTEM STATUS: ONLINE
 &nbsp;&nbsp;•&nbsp;&nbsp;
@@ -90,8 +89,4 @@ MISSION: BUILD
 &nbsp;&nbsp;•&nbsp;&nbsp;
 MODE: ACTIVE
 </sub>
-
-<br /><br />
-
-
 </div>
