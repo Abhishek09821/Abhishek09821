@@ -4,11 +4,7 @@
 
 <br />
 
-<sub>
-BLACKSITE // DEVELOPER DOSSIER
-&nbsp;&nbsp;•&nbsp;&nbsp;
-CLEARANCE: OPEN SOURCE
-</sub>
+
 
 <br /><br />
 
@@ -142,34 +138,7 @@ A web reverse-engineering tool for uncovering architecture, UI patterns and tech
 
 ---
 
-<table>
-<tr>
 
-<td width="50%" valign="top">
-
-### OBJECTIVE // 05
-
-Build software that solves  
-a real problem.
-
-Not just another project.  
-Not just another demo.
-
-</td>
-
-<td width="50%" valign="top">
-
-### NEXT TARGET // 06
-
-AI systems  
-Developer tooling  
-Better architecture  
-Cleaner products
-
-</td>
-
-</tr>
-</table>
 
 ---
 
