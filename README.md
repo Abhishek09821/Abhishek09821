@@ -51,7 +51,7 @@ Interactive sports quiz platform with AI-generated questions, difficulty selecti
 
 **03 — ANYTHING CONVERTABLE**
 
-A document-editing concept focused on making PDFs and Word files easier to work with beyond traditional OCR workflows.
+A document-converting concept focused on converting PDFs and Word files easier to work with beyond traditional OCR workflows.
 
 `Documents` `AI` `Product`
 
