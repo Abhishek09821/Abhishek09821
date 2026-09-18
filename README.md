@@ -11,7 +11,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Abhishek09821?tab=repositories">
-<kbd> GITHUB </kbd>
+<kbd> REPO </kbd>
 </a>
 
 </div>
