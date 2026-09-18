@@ -2,12 +2,6 @@
 
 <img src="./assets/blacksite-hero.jpg" width="100%" alt="Abhishek Tiwari" />
 
-<br />
-
-
-
-<br /><br />
-
 <a href="https://www.linkedin.com/in/abhishek-tiwari-3a3594300/">
 <kbd> LINKEDIN </kbd>
 </a>
