@@ -75,7 +75,7 @@ A web reverse-engineering tool for uncovering architecture, UI patterns and tech
 
 ### MY TOOLS
 
-<img src="https://skillicons.dev/icons?i=c,python,javascript,typescript,cpp,react,nextjs,angular,nodejs,express,fastapi,flask,tailwind,vite,postgresql,mysql,mongodb,supabase,firebase,docker,aws,vercel,netlify,git,github&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=c,python,javascript,typescript,cpp,react,nextjs,angular,nodejs,express,fastapi,flask,tailwind,vite,postgresql,mysql,mongodb,supabase,firebase,docker,aws,vercel,git,github&theme=dark&perline=8" />
 
 </div>
 
