@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/Naruto.jpg" width="100%" alt="Abhishek Tiwari" />
+<img src="./assets/PROFILE.jpg" width="100%" alt="Abhishek Tiwari" />
 
 <a href="https://www.linkedin.com/in/abhishek-tiwari-3a3594300/">
 <kbd> LINKEDIN </kbd>
