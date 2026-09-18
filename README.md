@@ -49,7 +49,7 @@ Interactive sports quiz platform with AI-generated questions, difficulty selecti
 
 <td width="50%" valign="top">
 
-**03 — ANYTHING EDITABLE**
+**03 — ANYTHING CONVERTABLE**
 
 A document-editing concept focused on making PDFs and Word files easier to work with beyond traditional OCR workflows.
 
