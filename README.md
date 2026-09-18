@@ -10,7 +10,7 @@
 <kbd> LEETCODE </kbd>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Abhishek09821">
+<a href="https://github.com/Abhishek09821?tab=repositories">
 <kbd> GITHUB </kbd>
 </a>
 
