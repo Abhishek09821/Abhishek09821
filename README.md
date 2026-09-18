@@ -93,6 +93,5 @@ MODE: ACTIVE
 
 <br /><br />
 
-**BUILD QUIETLY. SHIP SOMETHING WORTH FINDING.**
 
 </div>
