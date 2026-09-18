@@ -21,7 +21,7 @@
 <table>
 <tr>
 
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### PROFILE // 01
 
@@ -39,7 +39,7 @@ to polished web applications.
 
 </td>
 
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### ACTIVE INTEL // 02
 
