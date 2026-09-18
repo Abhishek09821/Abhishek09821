@@ -8,9 +8,9 @@
 
 <br /><br />
 
-<a href="YOUR_LINKEDIN_URL"><kbd> LINKEDIN </kbd></a>
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/abhishek-tiwari-3a3594300/)"><kbd> LINKEDIN </kbd></a>
 &nbsp;&nbsp;
-<a href="YOUR_LEETCODE_URL"><kbd> LEETCODE </kbd></a>
+<a href="[YOUR_LEETCODE_URL](https://leetcode.com/u/abhishektiwari9821/)"><kbd> LEETCODE </kbd></a>
 &nbsp;&nbsp;
 <a href="https://github.com/Abhishek09821"><kbd> GITHUB </kbd></a>
 
@@ -25,12 +25,12 @@
 ### PROFILE // 01
 
 **Abhishek Tiwari**  
-Full Stack Developer · AI Builder
+**Full Stack Developer**
 
-I turn rough ideas into working products — from backend systems and AI features to polished web interfaces.
+I build AI-powered products, Web applications and Backend systems.
 
-**Build style**  
-product-first · backend-minded · iterate fast
+**I care about**  
+useful products · clean systems · real-world problems
 
 </td>
 <td width="48%" valign="top">
@@ -44,7 +44,7 @@ AI-powered web products & developer tools
 Python · React · TypeScript
 
 **Also working with**  
-FastAPI · Flask · PostgreSQL · Docker · Cloud
+FastAPI · Flask · PostgreSQL · Docker · Supabase
 
 **Direction**  
 better systems, cleaner interfaces, useful software
@@ -63,10 +63,10 @@ better systems, cleaner interfaces, useful software
 
 | PROJECT | WHAT IT IS |
 |---|---|
-| **FINMATE AI** | AI-first personal finance product with planning, analysis and decision-support workflows. |
-| **VDown** | Media utility platform focused on downloading, subtitles and creator-oriented tooling. |
-| **URCV** | Resume conversion and verification system built around document processing and AI workflows. |
-| **ReverseX** | Web reverse-engineering concept for uncovering architecture, UI patterns and stack signals. |
+| **FINMATE AI** | AI-powered personal finance platform for analysis, planning and intelligent financial decision support. |
+| **ARENA** | Interactive AI-powered sports quiz game with customizable questions, difficulty and topic-based gameplay. |
+| **ANYTHING EDITABLE** | A document-editing concept focused on making PDFs and Word files easier to edit beyond traditional OCR workflows. |
+| **ReverseX** | Web reverse-engineering tool for uncovering architecture, UI patterns and technology signals. |
 
 <div align="center">
 
