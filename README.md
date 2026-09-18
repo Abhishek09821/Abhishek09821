@@ -18,16 +18,6 @@
 
 ---
 
-<div align="center">
-
-### FIELD KIT // 03
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,react,nextjs,angular,nodejs,express,fastapi,flask,tailwind,vite,postgresql,mysql,mongodb,supabase,firebase,docker,aws,vercel,netlify,git,github&theme=dark&perline=8" />
-
-</div>
-
----
-
 ### CASE FILES // 04
 
 <table>
@@ -81,8 +71,13 @@ A web reverse-engineering tool for uncovering architecture, UI patterns and tech
 </table>
 
 ---
+<div align="center">
 
+### FIELD KIT // 03
 
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,react,nextjs,angular,nodejs,express,fastapi,flask,tailwind,vite,postgresql,mysql,mongodb,supabase,firebase,docker,aws,vercel,netlify,git,github&theme=dark&perline=8" />
+
+</div>
 
 ---
 
