@@ -82,7 +82,7 @@ Ship them properly.
 
 ### FIELD KIT // 03
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,react,nextjs,angular,nodejs,express,nestjs,fastapi,flask,tailwind,vite,postgresql,mysql,mongodb,supabase,firebase,docker,aws,vercel,netlify,git,github&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,react,nextjs,angular,nodejs,express,fastapi,flask,tailwind,vite,postgresql,mysql,mongodb,supabase,firebase,docker,aws,vercel,netlify,git,github&theme=dark&perline=8" />
 
 </div>
 
