@@ -18,56 +18,6 @@
 
 ---
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### PROFILE // 01
-
-**Full Stack Developer · AI Builder**
-
-I turn rough ideas into working software —  
-from AI-powered products and backend systems  
-to polished web applications.
-
-**Build style**
-
-`product-first`  
-`backend-minded`  
-`iterate fast`
-
-</td>
-
-<td width="50%" valign="top">
-
-### ACTIVE INTEL // 02
-
-**Primary**
-
-Python · React · TypeScript
-
-**Current direction**
-
-AI products · intelligent tools · web systems
-
-**Working with**
-
-FastAPI · Flask · PostgreSQL · Docker · Cloud
-
-**Principle**
-
-Build useful things.  
-Keep them simple.  
-Ship them properly.
-
-</td>
-
-</tr>
-</table>
-
----
-
 <div align="center">
 
 ### FIELD KIT // 03
