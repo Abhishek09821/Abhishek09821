@@ -1,0 +1,9 @@
+Keep this exact structure in the profile repo:
+README.md
+assets/
+  blacksite-hero.jpg
+  mission-strip.png
+  tech-field-kit.png
+
+Replace YOUR_LINKEDIN_URL and YOUR_LEETCODE_URL.
+All README images are local; no external image APIs are required.
